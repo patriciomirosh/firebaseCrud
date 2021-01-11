@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/firebaseCrud/static/css/main.c93bd4cb.chunk.css",
+    "main.js": "/firebaseCrud/static/js/main.f7cccf23.chunk.js",
+    "main.js.map": "/firebaseCrud/static/js/main.f7cccf23.chunk.js.map",
+    "runtime-main.js": "/firebaseCrud/static/js/runtime-main.ad84180a.js",
+    "runtime-main.js.map": "/firebaseCrud/static/js/runtime-main.ad84180a.js.map",
+    "static/css/2.505d8e97.chunk.css": "/firebaseCrud/static/css/2.505d8e97.chunk.css",
+    "static/js/2.69aa6618.chunk.js": "/firebaseCrud/static/js/2.69aa6618.chunk.js",
+    "static/js/2.69aa6618.chunk.js.map": "/firebaseCrud/static/js/2.69aa6618.chunk.js.map",
+    "static/js/3.dc3528cd.chunk.js": "/firebaseCrud/static/js/3.dc3528cd.chunk.js",
+    "static/js/3.dc3528cd.chunk.js.map": "/firebaseCrud/static/js/3.dc3528cd.chunk.js.map",
+    "index.html": "/firebaseCrud/index.html",
+    "static/css/2.505d8e97.chunk.css.map": "/firebaseCrud/static/css/2.505d8e97.chunk.css.map",
+    "static/css/main.c93bd4cb.chunk.css.map": "/firebaseCrud/static/css/main.c93bd4cb.chunk.css.map",
+    "static/js/2.69aa6618.chunk.js.LICENSE.txt": "/firebaseCrud/static/js/2.69aa6618.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad84180a.js",
+    "static/css/2.505d8e97.chunk.css",
+    "static/js/2.69aa6618.chunk.js",
+    "static/css/main.c93bd4cb.chunk.css",
+    "static/js/main.f7cccf23.chunk.js"
+  ]
+}
